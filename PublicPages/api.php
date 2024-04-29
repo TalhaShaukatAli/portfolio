@@ -64,7 +64,7 @@ class WeatherAPI {
 }
 
 // Your OpenWeatherMap API key
-$apiKey = '2e351f767bb4bea06d8df67d8ff76afb';
+$apiKey = '';
 
 // Create WeatherAPI instance
 $weatherAPI = new WeatherAPI($apiKey);
